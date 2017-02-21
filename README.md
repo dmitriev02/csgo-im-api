@@ -1,7 +1,7 @@
 # csgo-im-api
 CSGO.im API package. Allows you to use each and every endpoint available at csgo.im
 
-# Initialising workflow
+## Initialising workflow
 ```JAVASCRIPT
 const csgoimAPI = require('csgo-im-api');
 const api = new csgoimAPI('csgo_im_api_key');
